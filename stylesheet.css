@@ -1,7 +1,12 @@
-.header {
+#header {
 background-color : rgb(24, 214, 17);
 color : black;
-z-index : 1;
+z-index: 1;
+}
+
+
+body {
+	background-color: rgb(84,104,235);
 }
 
 #name{
@@ -18,6 +23,10 @@ font-family: Helvetica;
 
 color : black;
 font-size : 50px;
+}
+
+#headshot {
+	padding-left: 10px;
 }
 
 .left {
